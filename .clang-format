@@ -1,0 +1,5 @@
+Language: Cpp
+BasedOnStyle: GNU
+IndentWidth: 4
+BreakBeforeBraces: Allman
+ColumnLimit: 70
